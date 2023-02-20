@@ -9,6 +9,7 @@
 * [DS 프로젝트](project/ds.md)
 * [DE 프로젝트](project/de.md)
 * [신입기수 프로젝트](project/undefined.md)
+* [컨퍼런스](project/undefined-1.md)
 
 ## Study
 
