@@ -8,10 +8,11 @@
   * [DA 시니어 프로젝트](project/da/undefined.md)
     * [2022-2](project/da/da/2022-2/README.md)
       * [개별 프로젝트 단위](project/da/da/2022-2/undefined.md)
+  * [DA 주니어 프로젝트](project/da/da-1.md)
 * [DS 프로젝트](project/ds.md)
 * [DE 프로젝트](project/de.md)
-* [외부 프로젝트](project/undefined.md)
-* [신입기수 프로젝트](<project/undefined (1).md>)
+* [외부 프로젝트](<project/undefined (1).md>)
+* [신입기수 프로젝트](project/undefined.md)
 
 ## Conference
 

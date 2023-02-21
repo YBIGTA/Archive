@@ -38,4 +38,4 @@ description: '#DL #GAN #PyTorch'
 
 <figure><img src="../../../.gitbook/assets/슬라이드17.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/슬라이드18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/슬라이드18 (1).png" alt=""><figcaption></figcaption></figure>

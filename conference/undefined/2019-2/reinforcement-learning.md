@@ -44,7 +44,7 @@ description: '#MDP #강화학습'
 
 <figure><img src="../../../.gitbook/assets/851fa8133dae4a359ea9b7da8f059206ZgLbpyD6Ox4v1BJv 20.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/851fa8133dae4a359ea9b7da8f059206ZgLbpyD6Ox4v1BJv-21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/851fa8133dae4a359ea9b7da8f059206ZgLbpyD6Ox4v1BJv-21 (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/851fa8133dae4a359ea9b7da8f059206ZgLbpyD6Ox4v1BJv-22.png" alt=""><figcaption></figcaption></figure>
 
@@ -102,7 +102,7 @@ description: '#MDP #강화학습'
 
 <figure><img src="../../../.gitbook/assets/851fa8133dae4a359ea9b7da8f059206ZgLbpyD6Ox4v1BJv-49.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/851fa8133dae4a359ea9b7da8f059206ZgLbpyD6Ox4v1BJv-50 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/851fa8133dae4a359ea9b7da8f059206ZgLbpyD6Ox4v1BJv-50.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/851fa8133dae4a359ea9b7da8f059206ZgLbpyD6Ox4v1BJv-51.png" alt=""><figcaption></figcaption></figure>
 

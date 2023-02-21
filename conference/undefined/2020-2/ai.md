@@ -52,6 +52,6 @@ description: '#OCR #TTS #Tacotron #deepvoice #Swift'
 
 <figure><img src="../../../.gitbook/assets/책읽어주는AI_페이지_24.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/책읽어주는AI_페이지_25 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/책읽어주는AI_페이지_25.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/책읽어주는AI_페이지_26.jpg" alt=""><figcaption></figcaption></figure>

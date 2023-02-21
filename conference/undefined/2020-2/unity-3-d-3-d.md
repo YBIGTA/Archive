@@ -10,19 +10,19 @@ description: '#Unity ML-Agent #Reinforcement Learning'
 
 <figure><img src="../../../.gitbook/assets/Unity ML-Agent_페이지_03.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Unity ML-Agent_페이지_04.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Unity ML-Agent_페이지_04 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Unity ML-Agent_페이지_05 (2).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Unity ML-Agent_페이지_06.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Unity ML-Agent_페이지_06 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Unity ML-Agent_페이지_07 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Unity ML-Agent_페이지_07 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Unity ML-Agent_페이지_08.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Unity ML-Agent_페이지_08 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Unity ML-Agent_페이지_09 (2).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Unity ML-Agent_페이지_10 (3).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Unity ML-Agent_페이지_10 (4).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Unity ML-Agent_페이지_11 (2).jpg" alt=""><figcaption></figcaption></figure>
 

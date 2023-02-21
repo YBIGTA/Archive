@@ -30,7 +30,7 @@ description: '#LSTM #DQN #Actor Critic #Evolution Strategy'
 
 <figure><img src="../../../.gitbook/assets/강화학습으로 주식하기_페이지_12.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/강화학습으로 주식하기_페이지_13 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/강화학습으로 주식하기_페이지_13.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/강화학습으로 주식하기_페이지_14.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -42,7 +42,7 @@ description: '#LSTM #DQN #Actor Critic #Evolution Strategy'
 
 <figure><img src="../../../.gitbook/assets/강화학습으로 주식하기_페이지_18.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/강화학습으로 주식하기_페이지_19.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/강화학습으로 주식하기_페이지_19 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/강화학습으로 주식하기_페이지_20.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -96,7 +96,7 @@ description: '#LSTM #DQN #Actor Critic #Evolution Strategy'
 
 <figure><img src="../../../.gitbook/assets/강화학습으로 주식하기_페이지_45.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/강화학습으로 주식하기_페이지_46 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/강화학습으로 주식하기_페이지_46.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/강화학습으로 주식하기_페이지_47.jpg" alt=""><figcaption></figcaption></figure>
 
