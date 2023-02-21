@@ -14,9 +14,9 @@ description: '#Django #AWS #MySQL #Crawling #Detectron2'
 
 <figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_05.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_06.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_06 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_07.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_07 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_08 (1).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -28,17 +28,17 @@ description: '#Django #AWS #MySQL #Crawling #Detectron2'
 
 <figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_12.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_13 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_13.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_14 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_15 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_15.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_16 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_16.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_17.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_17 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_18.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_18 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/비전을 이용한 의류 인식_페이지_19 (1).jpg" alt=""><figcaption></figcaption></figure>
 

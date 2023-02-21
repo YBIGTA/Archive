@@ -11,7 +11,7 @@
 * [DS 프로젝트](project/ds.md)
 * [DE 프로젝트](project/de.md)
 * [외부 프로젝트](project/undefined.md)
-* [신입기수 프로젝트](project/undefined-1.md)
+* [신입기수 프로젝트](<project/undefined (1).md>)
 
 ## Conference
 
@@ -36,7 +36,7 @@
     * [XAI](conference/undefined/2020-1/xai.md)
     * [강화학습으로 주식하기](conference/undefined/2020-1/undefined.md)
     * [뉴스데이터를 통한 테마주 찾기](conference/undefined/2020-1/undefined-1.md)
-    * [도서추천시스템](conference/undefined/2020-1/undefined-2.md)
+    * [키워드 기반 도서 추천시스템](conference/undefined/2020-1/undefined-2.md)
     * [심심한 와빅이 - BERT로 챗봇 만들기](conference/undefined/2020-1/bert.md)
     * [와!빅냉장고](conference/undefined/2020-1/undefined-3.md)
     * [코로나 알리미](conference/undefined/2020-1/undefined-4.md)
