@@ -64,7 +64,7 @@
     * [KBO 그 남자의 존](conference/undefined/2019-1/kbo.md)
     * [MBTI 성격 예측 프로젝트](conference/undefined/2019-1/mbti.md)
     * [Visual Translation](conference/undefined/2019-1/visual-translation.md)
-    * [가사로 분석하는 사회: 시대별 가사 변화 양상](conference/undefined/2019-1/undefined.md)
+    * [가사로 분석하는 사회 - 시대별 가사 변화 양상](conference/undefined/2019-1/undefined.md)
     * [버트야 수능풀자](conference/undefined/2019-1/undefined-1.md)
   * [2019-1 미니컨퍼런스](conference/undefined/2019-1-1/README.md)
     * [AI related News Topic Analysis - Using Khaiii and LDA](conference/undefined/2019-1-1/ai-related-news-topic-analysis-using-khaiii-and-lda.md)

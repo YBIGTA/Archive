@@ -8,7 +8,7 @@ description: '#Crawling #KoBERT #Word2Vec #Cosine Similarity'
 
 <figure><img src="../../../.gitbook/assets/뉴스데이터를 통한 테마주 찾기_페이지_02.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/뉴스데이터를 통한 테마주 찾기_페이지_03.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/뉴스데이터를 통한 테마주 찾기_페이지_03 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/뉴스데이터를 통한 테마주 찾기_페이지_04.jpg" alt=""><figcaption></figcaption></figure>
 
