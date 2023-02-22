@@ -30,11 +30,11 @@ description: '#LSTM #Stacked LSTM #Bi-LSTM #LSTM-AutoEncoder'
 
 <figure><img src="../../../.gitbook/assets/DACON 산업제어시스템 보안위협 탐지 AI 경진대회 (3)_페이지_13.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 산업제어시스템 보안위협 탐지 AI 경진대회 (3)_페이지_14.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 산업제어시스템 보안위협 탐지 AI 경진대회 (3)_페이지_14 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 산업제어시스템 보안위협 탐지 AI 경진대회 (3)_페이지_15.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 산업제어시스템 보안위협 탐지 AI 경진대회 (3)_페이지_15 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 산업제어시스템 보안위협 탐지 AI 경진대회 (3)_페이지_16 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 산업제어시스템 보안위협 탐지 AI 경진대회 (3)_페이지_16.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/DACON 산업제어시스템 보안위협 탐지 AI 경진대회 (3)_페이지_17.jpg" alt=""><figcaption></figcaption></figure>
 

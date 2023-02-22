@@ -38,7 +38,7 @@ description: >-
 
 <figure><img src="../../../.gitbook/assets/감성 분석, 키워드 분류 기반 카페 평가 및 추천_페이지_16.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/감성 분석, 키워드 분류 기반 카페 평가 및 추천_페이지_17 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/감성 분석, 키워드 분류 기반 카페 평가 및 추천_페이지_17.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/감성 분석, 키워드 분류 기반 카페 평가 및 추천_페이지_18.jpg" alt=""><figcaption></figcaption></figure>
 

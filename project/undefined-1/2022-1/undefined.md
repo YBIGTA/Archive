@@ -42,7 +42,7 @@ description: '#DNN #XGBoost #GAM #Random Forest'
 
 <figure><img src="../../../.gitbook/assets/서울시 배달 수요 예측 모델링 - 기상 정보를 중심으로_페이지_19.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/서울시 배달 수요 예측 모델링 - 기상 정보를 중심으로_페이지_20 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/서울시 배달 수요 예측 모델링 - 기상 정보를 중심으로_페이지_20.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/서울시 배달 수요 예측 모델링 - 기상 정보를 중심으로_페이지_21.jpg" alt=""><figcaption></figcaption></figure>
 
