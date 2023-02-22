@@ -18,7 +18,7 @@ description: '#K-means Clustering #SVM #PCA #Semantic Segmentation #Logit Transf
 
 
 
-<figure><img src="../../../.gitbook/assets/NBA 데이터를 활용한 선수 포지션 재정의 및 부상 예측_페이지_07 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NBA 데이터를 활용한 선수 포지션 재정의 및 부상 예측_페이지_07.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/NBA 데이터를 활용한 선수 포지션 재정의 및 부상 예측_페이지_08.jpg" alt=""><figcaption></figcaption></figure>
 
