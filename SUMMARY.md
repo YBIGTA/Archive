@@ -16,7 +16,7 @@
       * [💳 신용카드 거래 시각화](project/da/da-1/2022-2/undefined-1.md)
     * [2022-1](project/da/da-1/2022-1/README.md)
       * [👟 BurnIn](project/da/da-1/2022-1/burnin.md)
-      * [Cafe4Study](project/da/da-1/2022-1/cafe4study.md)
+      * [☕ Cafe4Study](project/da/da-1/2022-1/cafe4study.md)
   * [DA 주니어 프로젝트](project/da/da-1.md)
 * [DS 프로젝트](project/ds.md)
 * [DE 프로젝트](project/de.md)
