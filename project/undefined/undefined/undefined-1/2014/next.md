@@ -1,0 +1,7 @@
+---
+description: '#Clustering #데이터_분석 #자동_신경망_예측모델'
+---
+
+# 🛒 고객별 Next 구매 금액 예측 모형 연구
+
+![](<../../../../../.gitbook/assets/image (17).png>)![](<../../../../../.gitbook/assets/Untitled (2).png>)![](<../../../../../.gitbook/assets/Untitled 1 (4).png>)![](<../../../../../.gitbook/assets/Untitled 2 (3).png>)![](<../../../../../.gitbook/assets/Untitled 3 (5).png>)![](<../../../../../.gitbook/assets/Untitled 4 (1).png>)![](<../../../../../.gitbook/assets/Untitled 5 (3).png>)![](<../../../../../.gitbook/assets/Untitled 6 (6).png>)![](<../../../../../.gitbook/assets/Untitled 7 (6).png>)![](<../../../../../.gitbook/assets/Untitled 8 (5).png>)![](<../../../../../.gitbook/assets/Untitled 9 (6).png>)![](<../../../../../.gitbook/assets/Untitled 10 (3).png>)![](<../../../../../.gitbook/assets/Untitled 11 (4).png>)![](<../../../../../.gitbook/assets/Untitled 12 (4).png>)![](<../../../../../.gitbook/assets/Untitled 13 (3).png>)![](<../../../../../.gitbook/assets/Untitled 14 (2).png>)![](<../../../../../.gitbook/assets/Untitled 15 (4).png>)![](<../../../../../.gitbook/assets/Untitled 16.png>)![](<../../../../../.gitbook/assets/Untitled 17 (1).png>)![](<../../../../../.gitbook/assets/Untitled 18.png>)![](<../../../../../.gitbook/assets/Untitled 19.png>)![](<../../../../../.gitbook/assets/image (11).png>)![](<../../../../../.gitbook/assets/image (16).png>)![](<../../../../../.gitbook/assets/image (12).png>)![](<../../../../../.gitbook/assets/image (13).png>)![](<../../../../../.gitbook/assets/image (14).png>)
