@@ -56,13 +56,13 @@ description: '#Vanilla GAN #SRGAN #StarGAN #BeautyGAN #StyleGAN #Dlib'
 
 <figure><img src="../../../.gitbook/assets/다양한 GAN 기반 이미지 생성 모델_페이지_26.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/다양한 GAN 기반 이미지 생성 모델_페이지_27.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/다양한 GAN 기반 이미지 생성 모델_페이지_27 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/다양한 GAN 기반 이미지 생성 모델_페이지_28.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/다양한 GAN 기반 이미지 생성 모델_페이지_29.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/다양한 GAN 기반 이미지 생성 모델_페이지_30 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/다양한 GAN 기반 이미지 생성 모델_페이지_30.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/다양한 GAN 기반 이미지 생성 모델_페이지_31.jpg" alt=""><figcaption></figcaption></figure>
 
