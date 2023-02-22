@@ -55,7 +55,7 @@
     * [👨💻 코드 유사성 판단 AI 경진대회](project/ds/2022-1/ai.md)
   * [2022-2](project/ds/2022-2/README.md)
     * [💉 유방암의 임파선 전이 예측 AI 경진대회](project/ds/2022-2/ai.md)
-* [DE 프로젝트](project/de/README.md)
+* [DE 프로젝트](project/de.md)
   * [DE 시니어 프로젝트](project/de/de/README.md)
     * [2022-2](project/de/de/2022-2/README.md)
       * [Alin coinboard](project/de/de/2022-2/alin-coinboard.md)
