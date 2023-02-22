@@ -18,7 +18,7 @@ description: '#KLUE/RoBERTa #Back Translation #R3F'
 
 <figure><img src="../../../.gitbook/assets/DACON 한국어 문장 관계 분류 경진대회 (1)_페이지_07.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 한국어 문장 관계 분류 경진대회 (1)_페이지_08 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 한국어 문장 관계 분류 경진대회 (1)_페이지_08.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/DACON 한국어 문장 관계 분류 경진대회 (1)_페이지_09.jpg" alt=""><figcaption></figcaption></figure>
 

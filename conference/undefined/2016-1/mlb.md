@@ -38,9 +38,9 @@ description: '#데이터 분석 #Visualization #K-means Clustering'
 
 <figure><img src="../../../.gitbook/assets/MLB 선수 데이터 분석_페이지_17.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/MLB 선수 데이터 분석_페이지_18 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/MLB 선수 데이터 분석_페이지_18 (2).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/MLB 선수 데이터 분석_페이지_19 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/MLB 선수 데이터 분석_페이지_19.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/MLB 선수 데이터 분석_페이지_20.jpg" alt=""><figcaption></figcaption></figure>
 

@@ -4,7 +4,7 @@ description: '#Kafka #Kafka Streams #Amazon S3 #Elasticsearch #Logstash #Kibana'
 
 # Alin coinboard
 
-<figure><img src="../../../../.gitbook/assets/Alin_coinboard_final_페이지_01 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Alin_coinboard_final_페이지_01.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/Alin_coinboard_final_페이지_02.jpg" alt=""><figcaption></figcaption></figure>
 
