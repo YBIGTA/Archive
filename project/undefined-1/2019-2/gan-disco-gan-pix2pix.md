@@ -60,13 +60,13 @@ description: '#GAN #DiscoGAN #Pix2Pix'
 
 <figure><img src="../../../.gitbook/assets/GAN의 응용 - Disco GAN, Pix2Pix (딥러닝1조)_페이지_28.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/GAN의 응용 - Disco GAN, Pix2Pix (딥러닝1조)_페이지_29.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/GAN의 응용 - Disco GAN, Pix2Pix (딥러닝1조)_페이지_29 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/GAN의 응용 - Disco GAN, Pix2Pix (딥러닝1조)_페이지_30.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/GAN의 응용 - Disco GAN, Pix2Pix (딥러닝1조)_페이지_31 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/GAN의 응용 - Disco GAN, Pix2Pix (딥러닝1조)_페이지_32 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/GAN의 응용 - Disco GAN, Pix2Pix (딥러닝1조)_페이지_32.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/GAN의 응용 - Disco GAN, Pix2Pix (딥러닝1조)_페이지_33.jpg" alt=""><figcaption></figcaption></figure>
 

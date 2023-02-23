@@ -16,7 +16,7 @@ description: '#Sentiment Analysis #Crawling #LSTM #BERT'
 
 <figure><img src="../../../.gitbook/assets/네이버 영화 리뷰 감성 분석_페이지_06.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/네이버 영화 리뷰 감성 분석_페이지_07.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/네이버 영화 리뷰 감성 분석_페이지_07 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/네이버 영화 리뷰 감성 분석_페이지_08.jpg" alt=""><figcaption></figcaption></figure>
 

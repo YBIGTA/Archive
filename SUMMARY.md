@@ -131,7 +131,7 @@
   * [2017-1](project/undefined-1/2017-1/README.md)
     * [투표 결과를 예측할 수 있을까 - 2016 미국 대선 지지 정당 예측](project/undefined-1/2017-1/2016.md)
     * [택시 예약 관련 데이터를 이용한 택시 예약의 취소 여부 예측](project/undefined-1/2017-1/undefined.md)
-    * [영화 데이터 분석을 통한 평점 예측 (Analysis on Kaggle Data & Movie Recommendation)](project/undefined-1/2017-1/analysis-on-kaggle-data-and-movie-recommendation.md)
+    * [Analysis on Kaggle Data: Movie Recommendation](project/undefined-1/2017-1/analysis-on-kaggle-data-movie-recommendation.md)
   * [2016-2](project/undefined-1/2016-2/README.md)
     * [San Francisco Crime Classification (1)](project/undefined-1/2016-2/san-francisco-crime-classification-1.md)
     * [San Francisco Crime Classification (2)](project/undefined-1/2016-2/san-francisco-crime-classification-2.md)

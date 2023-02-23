@@ -58,13 +58,13 @@ description: '#LGBM #Random Forest #SVM #CatBoost #XGBoost'
 
 <figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_27.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_28 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_28.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_29 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_30 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_30.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_31.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_31 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_32 (1).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -72,28 +72,28 @@ description: '#LGBM #Random Forest #SVM #CatBoost #XGBoost'
 
 <figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_34 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_35.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_35 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_36 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_36.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_37.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_38.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_38 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_39.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_39 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_40.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_40 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_41 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_42.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_42 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_43 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_43.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_44 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_45 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_45.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_46.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_46 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_47.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 천체 유형 분류 대회 (1)_페이지_47 (1).jpg" alt=""><figcaption></figcaption></figure>

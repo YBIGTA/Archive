@@ -40,7 +40,7 @@ description: '#EfficientNet #DenseNet #ResNet #Multi-label Classification #CV'
 
 <figure><img src="../../../.gitbook/assets/DACON 컴퓨터 비전 학습 경진대회 (1)_페이지_18.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 컴퓨터 비전 학습 경진대회 (1)_페이지_19 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 컴퓨터 비전 학습 경진대회 (1)_페이지_19.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/DACON 컴퓨터 비전 학습 경진대회 (1)_페이지_20.jpg" alt=""><figcaption></figcaption></figure>
 

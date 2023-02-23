@@ -12,7 +12,7 @@ description: '#Crawling #k-NN Classifier #VGG19 #Word2Vec'
 
 <figure><img src="../../../.gitbook/assets/Instagram Hashtag Generator_페이지_04.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Instagram Hashtag Generator_페이지_05.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Instagram Hashtag Generator_페이지_05 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Instagram Hashtag Generator_페이지_06.jpg" alt=""><figcaption></figcaption></figure>
 
