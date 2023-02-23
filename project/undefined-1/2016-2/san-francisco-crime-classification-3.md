@@ -20,9 +20,9 @@ description: '#Random Forest #Decision Tree #Clustering #PCA'
 
 <figure><img src="../../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/9 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
 

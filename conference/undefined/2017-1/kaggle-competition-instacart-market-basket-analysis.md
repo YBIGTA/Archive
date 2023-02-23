@@ -12,7 +12,7 @@ description: '#데이터 분석 #XGBoost #LightGBM'
 
 <figure><img src="../../../.gitbook/assets/4 (2).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/5 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5 (2) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/6 (2).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -42,9 +42,9 @@ description: '#데이터 분석 #XGBoost #LightGBM'
 
 <figure><img src="../../../.gitbook/assets/19 (2).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/20 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20 (2) (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/21 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/21 (2) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/22 (2).jpg" alt=""><figcaption></figcaption></figure>
 

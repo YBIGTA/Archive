@@ -82,13 +82,13 @@ description: '#CartoonGAN #CycleGAN'
 
 <figure><img src="../../../.gitbook/assets/욘세이 마코토 애니메이션 스타일로 사진 변형_페이지_39 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/욘세이 마코토 애니메이션 스타일로 사진 변형_페이지_40 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/욘세이 마코토 애니메이션 스타일로 사진 변형_페이지_40.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/욘세이 마코토 애니메이션 스타일로 사진 변형_페이지_41.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/욘세이 마코토 애니메이션 스타일로 사진 변형_페이지_41 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/욘세이 마코토 애니메이션 스타일로 사진 변형_페이지_42 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/욘세이 마코토 애니메이션 스타일로 사진 변형_페이지_43 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/욘세이 마코토 애니메이션 스타일로 사진 변형_페이지_43.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/욘세이 마코토 애니메이션 스타일로 사진 변형_페이지_44.jpg" alt=""><figcaption></figcaption></figure>
 

@@ -136,6 +136,7 @@
     * [San Francisco Crime Classification (1)](project/undefined-1/2016-2/san-francisco-crime-classification-1.md)
     * [San Francisco Crime Classification (2)](project/undefined-1/2016-2/san-francisco-crime-classification-2.md)
     * [San Francisco Crime Classification (3)](project/undefined-1/2016-2/san-francisco-crime-classification-3.md)
+  * [명예의 전당](project/undefined-1/undefined.md)
 
 ## Conference
 
@@ -243,4 +244,5 @@
 
 ## Study
 
-* [스터디](study/undefined.md)
+* [스터디](study/undefined/README.md)
+  * [Page 2](study/undefined/page-2.md)

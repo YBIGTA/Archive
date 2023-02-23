@@ -8,9 +8,9 @@ description: '#Random Forest #LGBM #XGBoost #CatBoost'
 
 <figure><img src="../../../.gitbook/assets/IEEE-CIS Fraud Detection (머신러닝4조)_페이지_02.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/IEEE-CIS Fraud Detection (머신러닝4조)_페이지_03.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IEEE-CIS Fraud Detection (머신러닝4조)_페이지_03 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/IEEE-CIS Fraud Detection (머신러닝4조)_페이지_04.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IEEE-CIS Fraud Detection (머신러닝4조)_페이지_04 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/IEEE-CIS Fraud Detection (머신러닝4조)_페이지_05.jpg" alt=""><figcaption></figcaption></figure>
 

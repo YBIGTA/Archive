@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../../../.gitbook/assets/연세대학교 수강신청 마일리지 예측 서비스_페이지_01.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/연세대학교 수강신청 마일리지 예측 서비스_페이지_02 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/연세대학교 수강신청 마일리지 예측 서비스_페이지_02.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/연세대학교 수강신청 마일리지 예측 서비스_페이지_03.jpg" alt=""><figcaption></figcaption></figure>
 

@@ -38,7 +38,7 @@ description: '#Back Translation #KoELECTRA #RoBERTa'
 
 <figure><img src="../../../.gitbook/assets/DACON 한국어 문장 관계 분류 경진대회 (2)_페이지_17.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/DACON 한국어 문장 관계 분류 경진대회 (2)_페이지_18 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DACON 한국어 문장 관계 분류 경진대회 (2)_페이지_18.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/DACON 한국어 문장 관계 분류 경진대회 (2)_페이지_19.jpg" alt=""><figcaption></figcaption></figure>
 
