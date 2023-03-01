@@ -56,28 +56,28 @@ description: '#EDA #SMOTE #LGBM #EE #Adasyn #XGBoost'
 
 <figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_26.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_27.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_27 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_28.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_29.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_29 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_30.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_31.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_32.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_32 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_33 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_34.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_34 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_35 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_36.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_36 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_37.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_38.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_39.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/신용카드사기거래탐지AI_최종발표_페이지_39 (1).jpg" alt=""><figcaption></figcaption></figure>

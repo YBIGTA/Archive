@@ -1,0 +1,7 @@
+---
+description: '#CV #HSV_Histogram #ML #Skin_Detection #Web'
+---
+
+# ✔ 봄여름가을겨울 - 퍼스널컬러 진단 AI
+
+![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_01.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_02.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_03.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_04.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_05.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_06.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_07.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_08.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_09.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_10.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_11.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_12.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_13.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_14.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_15.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_16.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_17.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_18.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_19.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_20.png)![](../../../.gitbook/assets/컨퍼\_퍼컬\_vFF\_페이지\_21.png)![](<../../../.gitbook/assets/image (7).png>)![](<../../../.gitbook/assets/image (10).png>)
