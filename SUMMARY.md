@@ -87,6 +87,11 @@
         * [👤 에누리 닷컴](project/undefined/undefined/undefined-4/2016/undefined.md)
     * [🛍 행동 패턴과 소비 패턴에 따라 건강 식품 매출을 상승시키기 위한 입점 전략 및 기대 매출 수립](project/undefined/undefined/undefined-5.md)
 * [신입기수 프로젝트](project/undefined.md)
+  * [2023-1](project/undefined-1/2023-1/README.md)
+    * [YouTube Thumbnail and Title Analysis](project/undefined-1/2023-1/youtube-thumbnail-and-title-analysis.md)
+    * [뉴스 기반 트렌드 대시보드](project/undefined-1/2023-1/undefined.md)
+    * [신용카드 사기 거래 탐지 AI](project/undefined-1/2023-1/ai.md)
+    * [HYPE ZONE: 상권 분석, 핫플 예측](project/undefined-1/2023-1/hype-zone.md)
   * [2022-2](project/undefined-1/2022-2/README.md)
     * [신조어 분석 웹사이트](project/undefined-1/2022-2/undefined.md)
     * [DACON 팔당댐 홍수 안전운영에 따른 한강 수위 예측 AI 경진대회 - CNN-LSTM을 활용한 한강 수위 예측](project/undefined-1/2022-2/dacon-ai-cnn-lstm.md)
@@ -244,5 +249,4 @@
 
 ## Study
 
-* [스터디](study/undefined/README.md)
-  * [Page 2](study/undefined/page-2.md)
+* [스터디](study/undefined.md)
