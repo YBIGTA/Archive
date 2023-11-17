@@ -1,0 +1,41 @@
+---
+description: >-
+  #Kafka, #Docker, #Elasticsearch, #Kibana, #Real-time Data, #Visualization
+---
+
+# 🪙구해줘, 내 지갑 : 암호화폐 자동 봇 매매
+
+![](<../../../.gitbook/assets/SaveMyWallet0.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet1.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet2.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet3.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet4.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet5.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet6.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet7.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet8.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet9.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet10.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet11.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet12.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet13.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet14.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet15.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet16.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet17.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet18.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet19.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet20.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet21.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet22.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet23.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet24.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet25.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet26.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet27.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet28.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet29.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet30.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet31.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet32.jpg>)
+![](<../../../.gitbook/assets/SaveMyWallet33.jpg>)
